@@ -20,9 +20,7 @@ To suggest relevant movies to users based on a movie they like, using:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/movie-recommender
-cd movie-recommender
+Install dependencies:pip install pandas scikit-learn
+Run the script:python recommend.py
+Type a movie title from the list:The Matrix, Inception, Interstellar, The Dark Knight,
+Pulp Fiction, The Lord of the Rings, Avengers: Endgame, The Social Network
